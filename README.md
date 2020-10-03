@@ -1,4 +1,5 @@
 # Campus-Recruitment-Analysis
+![alt text](https://github.com/shalom217/Campus-Recruitment-Analysis/blob/master/images/652952.jpg)
 
 # Dataset: 
 I have downloaded the dataset from Kaggle:
