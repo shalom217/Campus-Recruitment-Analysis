@@ -18,7 +18,7 @@ Total students we have are	215,
 Placed (148) and
 Not Placed (67)
 
-Placed(%)	68.84
+Placed(%)	68.84,
 Unplaced(%)	31.16
 
 Lets take a overview on placed and not placed candidates
@@ -52,7 +52,7 @@ So all in all we can say Mkt&Fin candidates are the best suited for job their ex
  
  # Gender role
  Does gender make any diffrence in hiring? What data says?
- Hire rate of male is 0.72 and for female is 0.63, both are almost similar hemce gender is not making any diffrence in hiring.	
+ Hire rate of male is 0.72 and for female is 0.63, both are almost similar hence gender is not making any diffrence in hiring.	
  
  # Final Conclusion and answers of all questions:
  1.) Higher marks(10th,12th, UG, MBA, Placement Test) can make easy in getting hired.									
